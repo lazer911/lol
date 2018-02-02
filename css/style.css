@@ -37,7 +37,7 @@ input{appearance:none;-webkit-appearance:none;}
 .contentL li table tbody tr td h4{font-size: 15px; font-weight: 800;color: #666;line-height: 18px;border-bottom: 1px dotted #999;padding-bottom: 6px;text-align: left;width: 88%;margin: 0 auto 6px;}
 .contentL li table tbody tr td p b{font-weight: 900;}
 .contentL li table tbody tr td b{font-weight: 900;}
-.contentL li table tbody tr td p a{display: inline-block;color: #ff6701;background: url(../images/anchor_head_03.jpg) no-repeat 0 center;background-size: auto 60%;text-indent: 16px;font-size: 13px;margin-left: 2px;font-weight: 500;line-height: 22px;}
+.contentL li table tbody tr td p a{display: inline-block;color: #ff6701;background: url(../images/anchor_head_03.jpg) no-repeat 0 center;background-size: auto 50%;text-indent: 16px;font-size: 13px;margin-left: 2px;font-weight: 500;line-height: 22px;}
 .contentL li table tbody tr td a.coco{display: inline-block;width: 140px;height: 30px;font-size: 14px;color: #fff;text-align: center;line-height: 30px;border: 1px solid #ff6279;background: #ff6279;}
 .contentL li table tbody tr td p a.mango{display:block;width: 120px;height: 30px;font-size: 14px;color: #fff;text-align: center;line-height: 30px;background: #ff6701;border-radius: 8px;-webkit-border-radius:8px;float: left;text-indent: 0;}
 .contentL li table tbody tr td p a.bingo{display:block;width: 120px;height: 30px;font-size: 14px;color: #fff;text-align: center;line-height: 30px;background: #5560ae;border-radius: 8px;-webkit-border-radius:8px;float: right;text-indent: 0;}
